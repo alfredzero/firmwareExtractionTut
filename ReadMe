@@ -1,0 +1,11 @@
+# Drone Firmware Extraction Experiment
+
+Welcome to my GitHub! I ordered a set of drones from an online 
+Chinese supplier that will remain unnamed a few days ago. Once they arrive, 
+I'll be carefully uncovering the drones' electronic components, which I 
+will attach to a logical analyzer and a ft232h board. Before I get ahead 
+of myself, let's see if I can correctly disassemble the shell of the drone
+to get to the firmware! I will be documenting the progress I make on 
+this repo, which will include photos and videos of the process.
+
+**Faces and Figures:** Front Beauty, but behind both are unique purposes.
